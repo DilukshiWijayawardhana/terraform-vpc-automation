@@ -101,3 +101,12 @@ This section documents the end-to-end infrastructure deployment process.
 | **EC2 Instance Overview** | <img src="https://github.com/user-attachments/assets/055c070d-99fe-4de4-959e-02bd6bd54e7c" width="300" /> |
 
 ---
+
+## Service Verification
+The following status summaries confirm that each service (API Gateway, Python Worker, and TS Worker) is successfully running and reachable within the VPC.
+
+| Service | Status Verification |
+| :--- | :--- |
+| **API Gateway** | <img src="https://github.com/user-attachments/assets/4cc1a828-539e-4410-bf85-9ed00e628ef5" width="400" /> |
+| **Python Worker** | <img src="https://github.com/user-attachments/assets/f6a0cc07-ef07-4479-8ec5-08c29c67be2f" width="400" /> |
+| **TS Worker** | <img src="https://github.com/user-attachments/assets/d182bb62-e4ff-4cf0-ba7c-cf40a28722d8" width="400" /> |
